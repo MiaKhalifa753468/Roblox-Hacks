@@ -1,4 +1,4 @@
-Roblox.Hack = {
+Roblox.Hack = 1000000000000000000000000000000000000000000000000000{
 	original: 'missingno',
 	balance: 0,
 	initialized: 0,
